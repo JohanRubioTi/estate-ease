@@ -34,6 +34,3 @@ This full-stack real estate website is built using the following technologies:
 - ApexCharts
 - Chat feature
 - Google Login
-
-## Credits
-This project was built by Johan Rubio as a demonstration of full-stack web development using the MERN stack and Refine. Thank you to the creators of these fantastic tools and technologies for making this project possible!
